@@ -1,0 +1,25 @@
+*.html
+*.pdf
+*.PNG
+*.zip
+*.xlsx
+*.pan
+*.panOut
+*.panOutW
+*.a23
+*.accdb
+*.doe
+*.dsn
+*.opw
+*.out
+*.p
+ga
+*.ods
+*.csv
+*.log
+*.docx
+*.ipynb
+!regression.ipynb
+!results_100_v2.csv
+.~lock.input analyzer.docx#
+*.pa*
